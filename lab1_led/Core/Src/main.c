@@ -62,6 +62,9 @@ static void MX_GPIO_Init(void);
   * @brief  The application entry point.
   * @retval int
   */
+/*
+高骏涛到吃一游
+*/
 int main(void)
 {
   /* USER CODE BEGIN 1 */
